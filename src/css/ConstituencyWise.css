@@ -1,0 +1,26 @@
+.maindiv{
+    display: flex;
+    margin-top: 23px;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+}
+.selectiondiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: mistyrose;
+    padding: 5px;
+}
+@media only screen and (max-width: 380px) {
+    .selectiondiv {
+      display:flex;
+      flex-direction: column;
+    }
+}
+.textcss
+{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,15 @@
+.tablecss{
+    display: flex;
+    justify-content: center;
+    margin-top: 19px;
+}
+.tablehead{
+    margin-left: 2px;
+    margin-right: 2px;
+    background-color: mistyrose;
+}
+.tablecells{
+    border: 2px solid;
+    padding: 7px;
+    text-align: center;
+}

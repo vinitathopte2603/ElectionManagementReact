@@ -1,0 +1,13 @@
+.appbar
+{display: flex;
+    justify-content: space-between;}
+
+    .login{
+        display: flex;
+        justify-content: center;
+        padding: 14px;
+        color: red;
+    }
+    .validation{
+        color: red;
+    }

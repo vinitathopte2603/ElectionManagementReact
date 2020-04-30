@@ -1,0 +1,14 @@
+.buttonsCss
+{
+    display: flex;
+    margin-top: 51px;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+}
+@media only screen and (max-width: 600px) {
+    .buttonsCss {
+      display:flex;
+      flex-direction: column;
+    }
+  }
